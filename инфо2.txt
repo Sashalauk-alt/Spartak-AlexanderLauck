@@ -1,0 +1,2 @@
+cd /d N:\1\projects\Slovar
+python main.py

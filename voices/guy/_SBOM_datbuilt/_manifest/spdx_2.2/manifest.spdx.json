@@ -1,0 +1,53 @@
+{
+  "files": [],
+  "packages": [
+    {
+      "name": "NativeFrontendDatBuilding",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "41597035",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/Microsoft/sbom.microsoft/NativeFrontendDatBuilding@41597035?tag_id=0df8f629-2275-432e-b5ca-c0e7d4486414"
+        }
+      ],
+      "supplier": "Organization: Microsoft",
+      "hasFiles": []
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "NativeFrontendDatBuilding 41597035",
+  "documentNamespace": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:_3rt-hIRhka3RwzeU3Jy4g/31630:41597035/EGHmY65roUODRSHFSiYBFQ",
+  "creationInfo": {
+    "created": "2023-12-01T08:28:54Z",
+    "creators": [
+      "Organization: Microsoft",
+      "Tool: Microsoft.SBOMTool-1.8.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

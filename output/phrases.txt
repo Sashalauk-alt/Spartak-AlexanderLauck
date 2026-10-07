@@ -1,0 +1,812 @@
+﻿Приветствие|Привет!|Hi!
+Приветствие|Здравствуйте!|Hello!
+Приветствие|Доброе утро!|Good morning!
+Приветствие|Добрый день!|Good afternoon!
+Приветствие|Добрый вечер!|Good evening!
+Приветствие|Доброй ночи!|Good night!
+Приветствие|Как дела?|How are you?
+Приветствие|Как вы поживаете?|How are you doing?
+Приветствие|Как жизнь?|How is life?
+Приветствие|Что нового?|What is new?
+Приветствие|Давно не виделись!|Long time no see!
+Приветствие|Рад тебя видеть!|Glad to see you!
+Приветствие|Рад вас видеть!|Glad to see you!
+Приветствие|Приятно познакомиться!|Nice to meet you!
+Приветствие|Очень приятно!|Very nice!
+Приветствие|Взаимно!|Likewise!
+Приветствие|Меня зовут Иван.|My name is Ivan.
+Приветствие|Как вас зовут?|What is your name?
+Приветствие|Как тебя зовут?|What is your name?
+Приветствие|Откуда вы?|Where are you from?
+Приветствие|Откуда ты?|Where are you from?
+Приветствие|Я из России.|I am from Russia.
+Приветствие|Я русский.|I am Russian.
+Приветствие|Я русская.|I am Russian.
+Приветствие|Вы говорите по-английски?|Do you speak English?
+Приветствие|Я не говорю по-английски.|I do not speak English.
+Приветствие|Я немного говорю по-английски.|I speak a little English.
+Приветствие|Я плохо говорю по-английски.|I speak English badly.
+Приветствие|Повторите, пожалуйста.|Please repeat.
+Приветствие|Говорите медленнее, пожалуйста.|Please speak slower.
+Приветствие|Я не понимаю.|I do not understand.
+Приветствие|Я не знаю.|I do not know.
+Приветствие|Извините, я не расслышал.|Sorry, I did not catch you.
+Приветствие|Можете повторить?|Can you repeat?
+Приветствие|Сколько вам лет?|How old are you?
+Приветствие|Мне тридцать лет.|I am thirty years old.
+Приветствие|Вы женаты?|Are you married?
+Приветствие|Вы замужем?|Are you married?
+Приветствие|У вас есть дети?|Do you have children?
+Приветствие|У меня есть дети.|I have children.
+Приветствие|У меня нет детей.|I have no children.
+Приветствие|Чем вы занимаетесь?|What do you do?
+Приветствие|Кем вы работаете?|What is your job?
+Приветствие|Я работаю врачом.|I work as a doctor.
+Приветствие|Я учусь.|I am studying.
+Приветствие|Я студент.|I am a student.
+Приветствие|Я пенсионер.|I am retired.
+Приветствие|Где вы живёте?|Where do you live?
+Приветствие|Я живу в Москве.|I live in Moscow.
+Приветствие|Я живу в России.|I live in Russia.
+Приветствие|Вы здесь впервые?|Is this your first time here?
+Приветствие|Я здесь впервые.|This is my first time here.
+Приветствие|Я здесь уже был.|I have been here before.
+Приветствие|Я здесь на неделю.|I am here for a week.
+Приветствие|Я турист.|I am a tourist.
+Приветствие|Я путешествую.|I am traveling.
+Приветствие|Я приехал отдохнуть.|I came to rest.
+Приветствие|Я приехал по работе.|I came on business.
+Приветствие|Я с женой.|I am with my wife.
+Приветствие|Я с мужем.|I am with my husband.
+Приветствие|Я с семьёй.|I am with my family.
+Приветствие|Я один.|I am alone.
+Приветствие|Я одна.|I am alone.
+Приветствие|Познакомьтесь, это мой друг.|Meet, this is my friend.
+Приветствие|Это моя жена.|This is my wife.
+Приветствие|Это мой муж.|This is my husband.
+Приветствие|Это мой сын.|This is my son.
+Приветствие|Это моя дочь.|This is my daughter.
+Приветствие|До свидания!|Goodbye!
+Приветствие|До встречи!|See you!
+Приветствие|Пока!|Bye!
+Приветствие|Увидимся позже!|See you later!
+Приветствие|Всего хорошего!|All the best!
+Приветствие|Спокойной ночи!|Good night!
+Общение|Извините, пожалуйста.|Excuse me, please.
+Общение|Простите.|Sorry.
+Общение|Спасибо.|Thank you.
+Общение|Большое спасибо.|Thank you very much.
+Общение|Пожалуйста.|You are welcome.
+Общение|Будьте добры.|Please.
+Общение|Будьте любезны.|Please.
+Общение|Можно вопрос?|Can I ask a question?
+Общение|Можно спросить?|May I ask?
+Общение|Вы не подскажете?|Could you tell me?
+Общение|Вы не знаете?|Do you happen to know?
+Общение|Не могли бы вы помочь?|Could you help me?
+Общение|Помогите мне, пожалуйста.|Help me, please.
+Общение|Мне нужна помощь.|I need help.
+Общение|Я вам очень благодарен.|I am very grateful.
+Общение|Я вам очень признателен.|I am very grateful.
+Общение|Не за что.|Not at all.
+Общение|Ничего страшного.|It is nothing.
+Общение|Всё в порядке.|It is all right.
+Общение|Не беспокойтесь.|Do not worry.
+Общение|Не волнуйтесь.|Do not worry.
+Общение|К сожалению, я не могу.|Unfortunately, I cannot.
+Общение|К сожалению, я занят.|Unfortunately, I am busy.
+Общение|Мне очень жаль.|I am very sorry.
+Общение|Я не хотел вас обидеть.|I did not mean to offend you.
+Общение|Я не хотел вас побеспокоить.|I did not mean to disturb you.
+Общение|Извините за беспокойство.|Sorry for the trouble.
+Общение|Извините за опоздание.|Sorry for being late.
+Общение|Разрешите?|May I?
+Общение|Можно войти?|May I come in?
+Общение|Можно сесть?|May I sit down?
+Общение|Можно взглянуть?|May I have a look?
+Общение|Можно попробовать?|May I try?
+Общение|Будьте внимательны.|Be careful.
+Общение|Будьте осторожны.|Be careful.
+Общение|Не торопитесь.|Do not hurry.
+Общение|Подождите, пожалуйста.|Wait, please.
+Общение|Минутку, пожалуйста.|Just a minute, please.
+Общение|Сейчас.|Now.
+Общение|Потом.|Later.
+Общение|Хорошо.|Okay.
+Общение|Договорились.|Agreed.
+Общение|Я согласен.|I agree.
+Общение|Я не согласен.|I do not agree.
+Общение|Вы правы.|You are right.
+Общение|Вы не правы.|You are wrong.
+Общение|Я так не думаю.|I do not think so.
+Общение|Возможно.|Maybe.
+Общение|Конечно.|Of course.
+Общение|Обязательно.|Definitely.
+Общение|Я не уверен.|I am not sure.
+Общение|Я уверен.|I am sure.
+Общение|Понятно.|I see.
+Общение|Ясно.|Clear.
+Общение|Всё понятно.|Everything is clear.
+Общение|Ничего не понятно.|Nothing is clear.
+Разное|Я не знаю.|I do not know.
+Разное|Я не понимаю.|I do not understand.
+Разное|Повторите, пожалуйста.|Please repeat.
+Разное|Говорите медленнее.|Please speak slower.
+Разное|Что это?|What is this?
+Разное|Что это значит?|What does it mean?
+Разное|Как это сказать?|How do I say it?
+Разное|Как это пишется?|How do I spell it?
+Разное|Я потерялся.|I am lost.
+Разное|Я опаздываю.|I am late.
+Разное|Я спешу.|I am in a hurry.
+Разное|Подождите минуту.|Wait a minute.
+Разное|Сейчас.|Now.
+Разное|Потом.|Later.
+Разное|Здесь.|Here.
+Разное|Там.|There.
+Разное|Хорошо.|Okay.
+Разное|Плохо.|Bad.
+Развлечения|Что здесь можно посмотреть?|What can I see here?
+Развлечения|Какие здесь есть достопримечательности?|What sights are there here?
+Развлечения|Где находится музей?|Where is the museum?
+Развлечения|Где находится театр?|Where is the theatre?
+Развлечения|Где находится кино?|Where is the cinema?
+Развлечения|Где находится парк?|Where is the park?
+Развлечения|Где находится зоопарк?|Where is the zoo?
+Развлечения|Где находится стадион?|Where is the stadium?
+Развлечения|Сколько стоит билет?|How much is a ticket?
+Развлечения|Когда открыто?|When is it open?
+Развлечения|Когда закрыто?|When is it closed?
+Развлечения|Во сколько открывается?|What time does it open?
+Развлечения|Во сколько закрывается?|What time does it close?
+Развлечения|Есть экскурсии?|Are there guided tours?
+Развлечения|Есть экскурсии на русском?|Are there tours in Russian?
+Развлечения|Сколько стоит экскурсия?|How much is the tour?
+Развлечения|Сколько длится экскурсия?|How long is the tour?
+Развлечения|Мне нравится здесь.|I like it here.
+Развлечения|Здесь красиво.|It is beautiful here.
+Развлечения|Здесь интересно.|It is interesting here.
+Развлечения|Здесь скучно.|It is boring here.
+Развлечения|Что вы посоветуете?|What do you recommend?
+Развлечения|Где можно отдохнуть?|Where can I relax?
+Развлечения|Где можно погулять?|Where can I walk?
+Развлечения|Где можно потанцевать?|Where can I dance?
+Развлечения|Где можно спеть?|Where can I sing?
+Развлечения|Где можно выпить?|Where can I drink?
+Развлечения|Где можно поесть?|Where can I eat?
+Работа|Я ищу работу.|I am looking for a job.
+Работа|У меня есть работа.|I have a job.
+Работа|Мне нужна работа.|I need a job.
+Работа|Я работаю врачом.|I work as a doctor.
+Работа|Я работаю учителем.|I work as a teacher.
+Работа|Я работаю инженером.|I work as an engineer.
+Работа|Я учусь.|I am studying.
+Работа|Я студент.|I am a student.
+Работа|Я пенсионер.|I am retired.
+Работа|У меня встреча.|I have a meeting.
+Работа|У меня переговоры.|I have negotiations.
+Работа|Когда встреча?|When is the meeting?
+Работа|Где встреча?|Where is the meeting?
+Работа|Во сколько встреча?|What time is the meeting?
+Работа|Я опаздываю на встречу.|I am late for the meeting.
+Работа|Я на встрече.|I am at the meeting.
+Работа|Мне нужен переводчик.|I need an interpreter.
+Работа|Мне нужен юрист.|I need a lawyer.
+Работа|Мне нужен бухгалтер.|I need an accountant.
+Работа|Где находится офис?|Where is the office?
+Работа|Как пройти в офис?|How do I get to the office?
+Работа|Вот моя визитка.|Here is my business card.
+Работа|Дайте, пожалуйста, вашу визитку.|Your business card, please.
+Работа|Я представляю компанию.|I represent the company.
+Работа|Наша компания занимается...|Our company deals with...
+Работа|Мы хотим сотрудничать.|We want to cooperate.
+Работа|Давайте обсудим детали.|Let us discuss the details.
+Работа|Мне нужно отправить письмо.|I need to send a letter.
+Работа|Мне нужно позвонить.|I need to make a call.
+Работа|Где можно распечатать?|Where can I print?
+Работа|Где можно подписать?|Where can I sign?
+Работа|Где можно поставить печать?|Where can I stamp?
+Работа|Спасибо за сотрудничество.|Thank you for your cooperation.
+Транспорт|Где регистрация?|Where is check-in?
+Транспорт|Где стойка регистрации?|Where is the check-in counter?
+Транспорт|Регистрация на рейс.|Check-in for flight.
+Транспорт|Мой рейс номер.|My flight number is.
+Транспорт|Вот мой билет.|Here is my ticket.
+Транспорт|Вот мой паспорт.|Here is my passport.
+Транспорт|Вот мои документы.|Here are my documents.
+Транспорт|Сколько багажа можно взять?|How much luggage can I take?
+Транспорт|Сколько весит багаж?|How much does the luggage weigh?
+Транспорт|У меня один чемодан.|I have one suitcase.
+Транспорт|У меня две сумки.|I have two bags.
+Транспорт|У меня ручная кладь.|I have carry-on luggage.
+Транспорт|Это ручная кладь.|This is carry-on luggage.
+Транспорт|Сдайте багаж здесь.|Check your luggage here.
+Транспорт|Где сдать багаж?|Where do I check my luggage?
+Транспорт|Где получить багаж?|Where do I pick up my luggage?
+Транспорт|Где выдача багажа?|Where is baggage claim?
+Транспорт|Мой багаж потерялся.|My luggage is lost.
+Транспорт|Мой багаж не пришёл.|My luggage did not arrive.
+Транспорт|Мой чемодан не прибыл.|My suitcase did not arrive.
+Транспорт|Где мой багаж?|Where is my luggage?
+Транспорт|Когда будет мой багаж?|When will my luggage be here?
+Транспорт|Где выход?|Where is the exit?
+Транспорт|Где выход на посадку?|Where is the boarding gate?
+Транспорт|Где мой выход?|Where is my gate?
+Транспорт|Какой выход?|Which gate?
+Транспорт|Выход номер.|Gate number.
+Транспорт|Где зал ожидания?|Where is the waiting room?
+Транспорт|Где паспортный контроль?|Where is passport control?
+Транспорт|Где таможня?|Where is customs?
+Транспорт|Где досмотр?|Where is security check?
+Транспорт|Когда начинается посадка?|When does boarding start?
+Транспорт|Когда заканчивается посадка?|When does boarding end?
+Транспорт|Посадка уже началась?|Has boarding started?
+Транспорт|Посадка закончилась?|Has boarding finished?
+Транспорт|Когда вылет?|When is departure?
+Транспорт|Когда прилёт?|When is arrival?
+Транспорт|Когда самолёт?|When is the plane?
+Транспорт|Рейс задерживается?|Is the flight delayed?
+Транспорт|Рейс отменён?|Is the flight cancelled?
+Транспорт|На сколько задерживается?|How long is the delay?
+Транспорт|Сколько ждать?|How long to wait?
+Транспорт|Я опаздываю на рейс.|I am late for my flight.
+Транспорт|Я опоздал на рейс.|I missed my flight.
+Транспорт|Я не успел на рейс.|I did not catch my flight.
+Транспорт|Где можно купить билет?|Where can I buy a ticket?
+Транспорт|Сколько стоит билет?|How much is a ticket?
+Транспорт|Мне нужен билет.|I need a ticket.
+Транспорт|Один билет, пожалуйста.|One ticket, please.
+Транспорт|Два билета, пожалуйста.|Two tickets, please.
+Транспорт|Билет туда и обратно.|Round trip ticket.
+Транспорт|Билет в одну сторону.|One way ticket.
+Транспорт|Можно оплатить картой?|Can I pay by card?
+Транспорт|Где комната матери и ребёнка?|Where is the mother and child room?
+Транспорт|Где комната отдыха?|Where is the rest room?
+Транспорт|Где гостиница?|Where is the hotel?
+Транспорт|Где стоянка такси?|Where is the taxi stand?
+Транспорт|Хорошего полёта!|Have a good flight!
+Транспорт|Где ближайшая остановка автобуса?|Where is the nearest bus stop?
+Транспорт|Где находится билетная касса?|Where is the ticket office?
+Транспорт|Где автоматы с билетами?|Where are the ticket machines?
+Транспорт|Можно купить билет в автобусе?|Can I buy the ticket on the bus?
+Транспорт|На какой автобус мне сесть?|Which bus should I take?
+Транспорт|Этот автобус идёт?|Does this bus go?
+Транспорт|Какой автобус идёт в центр?|Which bus goes to the center?
+Транспорт|Как часто ходит этот автобус?|How often does this bus run?
+Транспорт|Когда следующий автобус?|When does the next bus leave?
+Транспорт|Когда последний автобус?|When does the last bus leave?
+Транспорт|Какая конечная остановка?|Which is the last stop?
+Транспорт|Сколько стоит проезд?|How much is the fare?
+Транспорт|Вот плата за проезд.|Here is the fare.
+Транспорт|Сколько остановок?|How many stops?
+Транспорт|Какая следующая остановка?|What is the next stop?
+Транспорт|Какая это остановка?|What is this stop?
+Транспорт|Мне нужно выйти.|I need to get off.
+Транспорт|Это моя остановка.|This is my stop.
+Транспорт|Я выхожу здесь.|I am getting off here.
+Транспорт|Где мне сделать пересадку?|Where should I change?
+Транспорт|Это место свободно?|Is this seat free?
+Транспорт|Это место занято?|Is this seat taken?
+Транспорт|Вы не возражаете, если я сяду здесь?|Do you mind if I sit here?
+Транспорт|Где ближайшая станция метро?|Where is the nearest underground station?
+Транспорт|Как называется эта станция метро?|What is this underground station called?
+Транспорт|Как доехать?|How can I reach?
+Транспорт|Где я должен сделать пересадку?|Where should I take a change?
+Транспорт|Покажите на схеме мой маршрут.|Please, show me my route on the map.
+Транспорт|Можно купить проездной билет?|Can I buy a season ticket?
+Транспорт|Сколько стоит билет?|How much is a single ticket?
+Транспорт|Билет в один конец.|Single ticket.
+Транспорт|Билет в оба конца.|Return ticket.
+Транспорт|Где находится такси?|Where can I get a taxi?
+Транспорт|Вызовите такси, пожалуйста.|Call a taxi, please.
+Транспорт|Отвезите меня, пожалуйста.|Take me, please.
+Транспорт|Я тороплюсь, поезжайте быстрее.|I am in a hurry, take the quickest route, please.
+Транспорт|Сколько времени займёт поездка?|How long will the ride take?
+Транспорт|Мы почти приехали?|Are we almost there?
+Транспорт|Остановите здесь, пожалуйста.|Stop here, please.
+Транспорт|Подождите меня, пожалуйста.|Wait for me, please.
+Транспорт|Вы принимаете карты?|Do you accept credit cards?
+Транспорт|Сдачи не нужно.|Keep the change.
+Транспорт|Где ближайшая станция?|Where is the nearest station?
+Транспорт|Где касса?|Where is the ticket office?
+Транспорт|Где платформа?|Where is the platform?
+Транспорт|Где зал ожидания?|Where is the waiting room?
+Транспорт|Где бюро находок?|Where is the lost property office?
+Транспорт|Это правильный поезд?|Is this the right train?
+Транспорт|Этот поезд идёт?|Does this train go?
+Транспорт|Когда отправляется поезд?|When does the train leave?
+Транспорт|Когда прибывает поезд?|When does the train arrive?
+Транспорт|С какой платформы?|From which platform?
+Транспорт|Где моё место?|Where is my seat?
+Транспорт|Где вагон-ресторан?|Is there a dining car on the train?
+Покупки|Где находится магазин?|Where is the shop?
+Покупки|Где находится торговый центр?|Where is the shopping centre?
+Покупки|Когда открывается магазин?|When does the shop open?
+Покупки|Когда закрывается магазин?|When does the shop close?
+Покупки|У вас есть эта вещь?|Do you have this item?
+Покупки|Мне нужна эта вещь.|I need this item.
+Покупки|Я хочу купить эту вещь.|I want to buy this item.
+Покупки|Я ищу подарок.|I am looking for a gift.
+Покупки|Покажите мне, пожалуйста, это.|Show me this, please.
+Покупки|Покажите мне, пожалуйста, вон то.|Show me that, please.
+Покупки|Сколько это стоит?|How much is it?
+Покупки|Сколько стоит эта вещь?|How much is this item?
+Покупки|Это дорого.|It is expensive.
+Покупки|Это дешево.|It is cheap.
+Покупки|У вас есть что-нибудь дешевле?|Do you have anything cheaper?
+Покупки|У вас есть что-нибудь подороже?|Do you have anything more expensive?
+Покупки|У вас есть другой размер?|Do you have another size?
+Покупки|У вас есть другой цвет?|Do you have another colour?
+Покупки|Какой размер?|What size?
+Покупки|Какой цвет?|What colour?
+Покупки|Можно примерить?|Can I try it on?
+Покупки|Где примерочная?|Where is the fitting room?
+Покупки|Это мне мало.|It is too small for me.
+Покупки|Это мне велико.|It is too big for me.
+Покупки|Это мне подходит.|It fits me.
+Покупки|Это мне не подходит.|It does not fit me.
+Покупки|Мне это нравится.|I like it.
+Покупки|Мне это не нравится.|I do not like it.
+Покупки|Я беру это.|I will take it.
+Покупки|Я не беру это.|I will not take it.
+Покупки|Сколько с меня?|How much do I pay?
+Покупки|Можно оплатить картой?|Can I pay by card?
+Покупки|Можно оплатить наличными?|Can I pay in cash?
+Покупки|Дайте, пожалуйста, чек.|The receipt, please.
+Покупки|Где касса?|Where is the cashier?
+Покупки|У вас есть скидки?|Do you have discounts?
+Покупки|Есть распродажа?|Is there a sale?
+Покупки|Можно вернуть товар?|Can I return the item?
+Покупки|Можно обменять товар?|Can I exchange the item?
+Покупки|Где находится отель?|Where is the hotel?
+Покупки|У меня забронирован номер.|I have a reservation.
+Покупки|Мне нужен номер.|I need a room.
+Покупки|Сколько стоит номер?|How much is the room?
+Покупки|Номер на одного.|A single room.
+Покупки|Номер на двоих.|A double room.
+Покупки|Вот мой паспорт.|Here is my passport.
+Покупки|Во сколько завтрак?|What time is breakfast?
+Покупки|Где ресторан?|Where is the restaurant?
+Покупки|Мне нужен столик.|I need a table.
+Покупки|Столик на одного.|A table for one.
+Покупки|Столик на двоих.|A table for two.
+Покупки|Дайте, пожалуйста, меню.|The menu, please.
+Покупки|Что вы посоветуете?|What do you recommend?
+Покупки|Я хочу заказать.|I want to order.
+Покупки|Счёт, пожалуйста.|The bill, please.
+Покупки|Где аптека?|Where is the pharmacy?
+Покупки|Мне нужно лекарство.|I need medicine.
+Покупки|У меня болит голова.|I have a headache.
+Покупки|У меня болит живот.|I have a stomachache.
+Покупки|У меня температура.|I have a fever.
+Покупки|Дайте, пожалуйста, это лекарство.|Give me this medicine, please.
+Экстренные|Помогите мне, пожалуйста.|Help me, please.
+Экстренные|Мне нужна помощь.|I need help.
+Экстренные|Вызовите полицию.|Call the police.
+Экстренные|Вызовите врача.|Call a doctor.
+Экстренные|Вызовите скорую.|Call an ambulance.
+Экстренные|Мне плохо.|I feel bad.
+Экстренные|Я потерялся.|I am lost.
+Экстренные|Я потерял паспорт.|I lost my passport.
+Экстренные|Я потерял документы.|I lost my documents.
+Экстренные|У меня украли сумку.|My bag was stolen.
+Экстренные|У меня украли кошелёк.|My wallet was stolen.
+Экстренные|У меня украли телефон.|My phone was stolen.
+Экстренные|Меня обманули.|I was cheated.
+Экстренные|Мне нужен переводчик.|I need an interpreter.
+Экстренные|Мне нужен юрист.|I need a lawyer.
+Экстренные|Где находится больница?|Where is the hospital?
+Экстренные|Где находится полиция?|Where is the police station?
+Экстренные|Где находится аптека?|Where is the pharmacy?
+Экстренные|У меня болит голова.|I have a headache.
+Экстренные|У меня болит живот.|I have a stomachache.
+Экстренные|У меня болит сердце.|I have a heartache.
+Экстренные|У меня температура.|I have a fever.
+Экстренные|У меня аллергия.|I have an allergy.
+Экстренные|Мне нужна скорая помощь.|I need an ambulance.
+Экстренные|Где ближайшая больница?|Where is the nearest hospital?
+Экстренные|Как вызвать врача?|How do I call a doctor?
+Экстренные|Я не говорю по-английски.|I do not speak English.
+Экстренные|Позовите переводчика.|Call a translator, please.
+Экстренные|Где Wi-Fi?|Where is Wi-Fi?
+Экстренные|Какой пароль от Wi-Fi?|What is the Wi-Fi password?
+Экстренные|Wi-Fi не работает.|Wi-Fi does not work.
+Экстренные|Интернет не работает.|The internet does not work.
+Экстренные|У меня нет интернета.|I have no internet.
+Экстренные|Где можно купить сим-карту?|Where can I buy a SIM card?
+Экстренные|Мне нужна сим-карта.|I need a SIM card.
+Экстренные|Сколько стоит сим-карта?|How much is a SIM card?
+Экстренные|Как позвонить?|How do I make a call?
+Экстренные|Мне нужно позвонить.|I need to make a call.
+Погода и природа|Какая сегодня погода?|What is the weather like today?
+Погода и природа|Сегодня хорошая погода.|The weather is good today.
+Погода и природа|Сегодня плохая погода.|The weather is bad today.
+Погода и природа|Сегодня тепло.|It is warm today.
+Погода и природа|Сегодня холодно.|It is cold today.
+Погода и природа|Сегодня жарко.|It is hot today.
+Погода и природа|Идёт дождь.|It is raining.
+Погода и природа|Идёт снег.|It is snowing.
+Погода и природа|Светит солнце.|The sun is shining.
+Погода и природа|Дует ветер.|The wind is blowing.
+Погода и природа|Будет дождь?|Will it rain?
+Погода и природа|Какая погода завтра?|What is the weather like tomorrow?
+Погода и природа|Сколько градусов?|How many degrees?
+Погода и природа|Где здесь пляж?|Where is the beach?
+Погода и природа|Где здесь парк?|Where is the park?
+Погода и природа|Где здесь река?|Where is the river?
+Погода и природа|Где здесь море?|Where is the sea?
+Погода и природа|Красивая природа!|Beautiful nature!
+Погода и природа|Я промок.|I got wet.
+Погода и природа|Я замёрз.|I am cold.
+Погода и природа|Мне жарко.|I am hot.
+Погода и природа|Где можно укрыться от дождя?|Where can I hide from the rain?
+Погода и природа|У меня нет зонта.|I do not have an umbrella.
+Погода и природа|Зимой холодно.|It is cold in winter.
+Погода и природа|Весной тепло.|It is warm in spring.
+Погода и природа|Летом жарко.|It is hot in summer.
+Погода и природа|Осенью прохладно.|It is cool in autumn.
+Погода и природа|Какая сегодня погода?|What is the weather like today?
+Погода и природа|Сегодня хорошая погода.|The weather is good today.
+Погода и природа|Сегодня плохая погода.|The weather is bad today.
+Погода и природа|Сегодня тепло.|It is warm today.
+Погода и природа|Сегодня холодно.|It is cold today.
+Погода и природа|Сегодня жарко.|It is hot today.
+Погода и природа|Идёт дождь.|It is raining.
+Погода и природа|Идёт снег.|It is snowing.
+Погода и природа|Светит солнце.|The sun is shining.
+Погода и природа|Дует ветер.|The wind is blowing.
+Погода и природа|Будет дождь?|Will it rain?
+Погода и природа|Какая погода завтра?|What is the weather like tomorrow?
+Погода и природа|Сколько градусов?|How many degrees?
+Погода и природа|Где здесь пляж?|Where is the beach?
+Погода и природа|Где здесь парк?|Where is the park?
+Погода и природа|Где здесь река?|Where is the river?
+Погода и природа|Где здесь море?|Where is the sea?
+Погода и природа|Красивая природа!|Beautiful nature!
+Погода и природа|Я промок.|I got wet.
+Погода и природа|Я замёрз.|I am cold.
+Погода и природа|Мне жарко.|I am hot.
+Погода и природа|Где можно укрыться от дождя?|Where can I hide from the rain?
+Погода и природа|У меня нет зонта.|I do not have an umbrella.
+Погода и природа|Зимой холодно.|It is cold in winter.
+Погода и природа|Весной тепло.|It is warm in spring.
+Погода и природа|Летом жарко.|It is hot in summer.
+Погода и природа|Осенью прохладно.|It is cool in autumn.
+Растения|Как называется это растение?|What is this plant called?
+Растения|Это растение красивое.|This plant is beautiful.
+Растения|Это растение ядовитое?|Is this plant poisonous?
+Растения|Это растение съедобное?|Is this plant edible?
+Растения|Где растёт это растение?|Where does this plant grow?
+Растения|Это дерево.|This is a tree.
+Растения|Это цветок.|This is a flower.
+Растения|Это трава.|This is grass.
+Растения|Это куст.|This is a bush.
+Растения|Это лес.|This is a forest.
+Растения|Здесь много деревьев.|There are many trees here.
+Растения|Здесь красивые цветы.|There are beautiful flowers here.
+Растения|Как пахнет этот цветок?|How does this flower smell?
+Растения|Можно сорвать этот цветок?|Can I pick this flower?
+Растения|Нельзя рвать цветы.|Do not pick flowers.
+Растения|Я люблю природу.|I love nature.
+Растения|Здесь чистый воздух.|The air is clean here.
+Растения|Здесь красиво.|It is beautiful here.
+Животные|Как называется это животное?|What is this animal called?
+Животные|Это животное красивое.|This animal is beautiful.
+Животные|Это животное опасное?|Is this animal dangerous?
+Животные|Это животное домашнее?|Is this animal domestic?
+Животные|Это животное дикое?|Is this animal wild?
+Животные|Где живёт это животное?|Where does this animal live?
+Животные|Это собака.|This is a dog.
+Животные|Это кошка.|This is a cat.
+Животные|Это лошадь.|This is a horse.
+Животные|Это корова.|This is a cow.
+Животные|Это птица.|This is a bird.
+Животные|Это рыба.|This is a fish.
+Животные|Это медведь.|This is a bear.
+Животные|Это волк.|This is a wolf.
+Животные|Это лиса.|This is a fox.
+Животные|Это заяц.|This is a hare.
+Животные|Это олень.|This is a deer.
+Животные|Это тигр.|This is a tiger.
+Животные|Это лев.|This is a lion.
+Животные|Это слон.|This is an elephant.
+Животные|Я люблю животных.|I love animals.
+Животные|У меня есть собака.|I have a dog.
+Животные|У меня есть кошка.|I have a cat.
+Животные|Я боюсь собак.|I am afraid of dogs.
+Животные|Здесь есть зоопарк?|Is there a zoo here?
+Птицы|Какая это птица?|What bird is this?
+Птицы|Это воробей.|This is a sparrow.
+Птицы|Это голубь.|This is a pigeon.
+Птицы|Это ворона.|This is a crow.
+Птицы|Это сорока.|This is a magpie.
+Птицы|Это синица.|This is a tit.
+Птицы|Это снегирь.|This is a bullfinch.
+Птицы|Это дятел.|This is a woodpecker.
+Птицы|Это сова.|This is an owl.
+Птицы|Это орёл.|This is an eagle.
+Птицы|Это сокол.|This is a falcon.
+Птицы|Это ястреб.|This is a hawk.
+Птицы|Это лебедь.|This is a swan.
+Птицы|Это утка.|This is a duck.
+Птицы|Это гусь.|This is a goose.
+Птицы|Это курица.|This is a chicken.
+Птицы|Это петух.|This is a rooster.
+Птицы|Это индюк.|This is a turkey.
+Птицы|Это страус.|This is an ostrich.
+Птицы|Это пингвин.|This is a penguin.
+Птицы|Птица летает.|The bird flies.
+Птицы|Птица поёт.|The bird sings.
+Птицы|Птица сидит на дереве.|The bird sits on a tree.
+Птицы|Птица вьёт гнездо.|The bird builds a nest.
+Птицы|Птица клюёт зерно.|The bird pecks grain.
+Птицы|Птица машет крыльями.|The bird flaps its wings.
+Птицы|У птицы есть перья.|A bird has feathers.
+Птицы|У птицы есть клюв.|A bird has a beak.
+Птицы|У птицы есть хвост.|A bird has a tail.
+Птицы|У птицы есть крылья.|A bird has wings.
+Водный мир|Это рыба.|This is a fish.
+Водный мир|Это дельфин.|This is a dolphin.
+Водный мир|Это кит.|This is a whale.
+Водный мир|Это акула.|This is a shark.
+Водный мир|Это осьминог.|This is an octopus.
+Водный мир|Это медуза.|This is a jellyfish.
+Водный мир|Это черепаха.|This is a turtle.
+Водный мир|Это краб.|This is a crab.
+Водный мир|Это креветка.|This is a shrimp.
+Водный мир|Это морской конёк.|This is a seahorse.
+Водный мир|Это морская звезда.|This is a starfish.
+Водный мир|Рыба плавает.|The fish swims.
+Водный мир|Дельфин прыгает.|The dolphin jumps.
+Водный мир|Кит огромный.|The whale is huge.
+Водный мир|Акула опасная.|The shark is dangerous.
+Водный мир|Осьминог имеет восемь ног.|The octopus has eight legs.
+Водный мир|Медуза жалит.|The jellyfish stings.
+Водный мир|Краб ползёт по дну.|The crab crawls on the bottom.
+Водный мир|Креветка маленькая.|The shrimp is small.
+Водный мир|Они живут в воде.|They live in water.
+Водный мир|Они дышат под водой.|They breathe underwater.
+Части тела|Это голова.|This is a head.
+Части тела|Это лицо.|This is a face.
+Части тела|Это глаза.|These are eyes.
+Части тела|Это уши.|These are ears.
+Части тела|Это нос.|This is a nose.
+Части тела|Это рот.|This is a mouth.
+Части тела|Это зубы.|These are teeth.
+Части тела|Это язык.|This is a tongue.
+Части тела|Это шея.|This is a neck.
+Части тела|Это плечо.|This is a shoulder.
+Части тела|Это рука.|This is an arm.
+Части тела|Это ладонь.|This is a palm.
+Части тела|Это пальцы.|These are fingers.
+Части тела|Это грудь.|This is a chest.
+Части тела|Это живот.|This is a stomach.
+Части тела|Это спина.|This is a back.
+Части тела|Это нога.|This is a leg.
+Части тела|Это колено.|This is a knee.
+Части тела|Это ступня.|This is a foot.
+Части тела|У меня болит голова.|I have a headache.
+Части тела|У меня болит глаз.|My eye hurts.
+Части тела|У меня болит ухо.|My ear hurts.
+Части тела|У меня болит зуб.|My tooth hurts.
+Части тела|У меня болит рука.|My arm hurts.
+Части тела|У меня болит нога.|My leg hurts.
+Части тела|У меня болит спина.|My back hurts.
+Части тела|У меня болит живот.|My stomach hurts.
+Части тела|У собаки четыре лапы.|A dog has four paws.
+Части тела|У кошки хвост.|A cat has a tail.
+Части тела|У птицы крылья.|A bird has wings.
+Части тела|У рыбы плавники.|A fish has fins.
+Части тела|У медведя лапы.|A bear has paws.
+Части тела|У лошади копыта.|A horse has hooves.
+Части тела|У коровы рога.|A cow has horns.
+Части тела|У зайца уши длинные.|A hare has long ears.
+Части тела|У лисы хвост пушистый.|A fox has a fluffy tail.
+Числа|Сколько это стоит?|How much is it?
+Числа|Это дорого.|It is expensive.
+Числа|Это дёшево.|It is cheap.
+Числа|У меня нет денег.|I have no money.
+Числа|У меня есть деньги.|I have money.
+Числа|Где банкомат?|Where is an ATM?
+Числа|Где обмен валюты?|Where is currency exchange?
+Числа|Можно оплатить картой?|Can I pay by card?
+Числа|Можно оплатить наличными?|Can I pay in cash?
+Числа|Дайте, пожалуйста, чек.|The receipt, please.
+Числа|Сдачи не нужно.|Keep the change.
+Числа|Сколько стоит билет?|How much is a ticket?
+Числа|Сколько стоит номер?|How much is the room?
+Числа|Сколько стоит такси?|How much is a taxi?
+Числа|Сколько стоит еда?|How much is the food?
+Числа|Сколько стоит вода?|How much is the water?
+Числа|Сколько стоит кофе?|How much is the coffee?
+Числа|Сколько стоит чай?|How much is the tea?
+Числа|Сколько стоит пиво?|How much is the beer?
+Числа|Сколько стоит вино?|How much is the wine?
+Числа|Сколько стоит сувенир?|How much is the souvenir?
+Числа|Один.|One.
+Числа|Два.|Two.
+Числа|Три.|Three.
+Числа|Четыре.|Four.
+Числа|Пять.|Five.
+Числа|Шесть.|Six.
+Числа|Семь.|Seven.
+Числа|Восемь.|Eight.
+Числа|Девять.|Nine.
+Числа|Десять.|Ten.
+Числа|Одиннадцать.|Eleven.
+Числа|Двенадцать.|Twelve.
+Числа|Тринадцать.|Thirteen.
+Числа|Четырнадцать.|Fourteen.
+Числа|Пятнадцать.|Fifteen.
+Числа|Шестнадцать.|Sixteen.
+Числа|Семнадцать.|Seventeen.
+Числа|Восемнадцать.|Eighteen.
+Числа|Девятнадцать.|Nineteen.
+Числа|Двадцать.|Twenty.
+Числа|Тридцать.|Thirty.
+Числа|Сорок.|Forty.
+Числа|Пятьдесят.|Fifty.
+Числа|Шестьдесят.|Sixty.
+Числа|Семьдесят.|Seventy.
+Числа|Восемьдесят.|Eighty.
+Числа|Девяносто.|Ninety.
+Числа|Сто.|One hundred.
+Числа|Двести.|Two hundred.
+Числа|Триста.|Three hundred.
+Числа|Четыреста.|Four hundred.
+Числа|Пятьсот.|Five hundred.
+Числа|Шестьсот.|Six hundred.
+Числа|Семьсот.|Seven hundred.
+Числа|Восемьсот.|Eight hundred.
+Числа|Девятьсот.|Nine hundred.
+Числа|Тысяча.|One thousand.
+Числа|Две тысячи.|Two thousand.
+Числа|Три тысячи.|Three thousand.
+Числа|Четыре тысячи.|Four thousand.
+Числа|Пять тысяч.|Five thousand.
+Числа|Десять тысяч.|Ten thousand.
+Числа|Двадцать тысяч.|Twenty thousand.
+Числа|Пятьдесят тысяч.|Fifty thousand.
+Числа|Сто тысяч.|One hundred thousand.
+Числа|Двести тысяч.|Two hundred thousand.
+Числа|Пятьсот тысяч.|Five hundred thousand.
+Числа|Миллион.|One million.
+Числа|Два миллиона.|Two million.
+Числа|Пять миллионов.|Five million.
+Числа|Десять миллионов.|Ten million.
+Числа|Сто миллионов.|One hundred million.
+Числа|Миллиард.|One billion.
+Время|Сколько времени?|What time is it?
+Время|Который час?|What time is it?
+Время|Сейчас три часа.|It is three o'clock.
+Время|Сейчас половина пятого.|It is half past four.
+Время|Сейчас без пятнадцати шесть.|It is a quarter to six.
+Время|Сейчас три часа утра.|It is three o'clock in the morning.
+Время|Сейчас пять часов дня.|It is five o'clock in the afternoon.
+Время|Сейчас семь часов вечера.|It is seven o'clock in the evening.
+Время|Сейчас одиннадцать часов ночи.|It is eleven o'clock at night.
+Время|Сейчас утро.|It is morning.
+Время|Сейчас день.|It is afternoon.
+Время|Сейчас вечер.|It is evening.
+Время|Сейчас ночь.|It is night.
+Время|Сегодня.|Today.
+Время|Завтра.|Tomorrow.
+Время|Вчера.|Yesterday.
+Время|Сейчас.|Now.
+Время|Позже.|Later.
+Время|Рано.|Early.
+Время|Поздно.|Late.
+Время|В понедельник.|On Monday.
+Время|Во вторник.|On Tuesday.
+Время|В среду.|On Wednesday.
+Время|В четверг.|On Thursday.
+Время|В пятницу.|On Friday.
+Время|В субботу.|On Saturday.
+Время|В воскресенье.|On Sunday.
+Время|В январе холодно.|It is cold in January.
+Время|В феврале много снега.|There is a lot of snow in February.
+Время|В марте становится теплее.|It gets warmer in March.
+Время|В апреле идут дожди.|It rains in April.
+Время|В мае всё цветёт.|Everything blooms in May.
+Время|В июне начинается лето.|Summer begins in June.
+Время|В июле очень жарко.|It is very hot in July.
+Время|В августе я отдыхаю.|I rest in August.
+Время|В сентябре дети идут в школу.|Children go to school in September.
+Время|В октябре листья желтеют.|Leaves turn yellow in October.
+Время|В ноябре часто туман.|It is often foggy in November.
+Время|В декабре праздники.|There are holidays in December.
+Цвета|Какого это цвета?|What colour is it?
+Цвета|Это красный.|It is red.
+Цвета|Синий мне идёт.|Blue suits me.
+Цвета|Зелёный — мой любимый цвет.|Green is my favourite colour.
+Цвета|Жёлтый слишком яркий.|Yellow is too bright.
+Цвета|Чёрный подходит ко всему.|Black goes with everything.
+Цвета|Белый маркий.|White gets dirty easily.
+Цвета|Серый скучный.|Grey is boring.
+Цвета|Коричневый практичный.|Brown is practical.
+Цвета|Оранжевый весёлый.|Orange is cheerful.
+Цвета|Розовый нежный.|Pink is gentle.
+Цвета|Фиолетовый загадочный.|Purple is mysterious.
+Цвета|Мне нравится этот цвет.|I like this colour.
+Цвета|У вас есть другого цвета?|Do you have another colour?
+Прилагательные|Красивая погода сегодня.|The weather is beautiful today.
+Прилагательные|Вкусная еда.|The food is tasty.
+Прилагательные|Дорогая машина.|The car is expensive.
+Прилагательные|Дешёвый отель.|The hotel is cheap.
+Прилагательные|Интересная книга.|The book is interesting.
+Прилагательные|Скучный фильм.|The film is boring.
+Прилагательные|Важный вопрос.|The question is important.
+Прилагательные|Трудная работа.|The work is difficult.
+Прилагательные|Лёгкий тест.|The test is easy.
+Прилагательные|Быстрый поезд.|The train is fast.
+Прилагательные|Медленный интернет.|The internet is slow.
+Прилагательные|Громкая музыка.|The music is loud.
+Прилагательные|Тихий район.|The area is quiet.
+Прилагательные|Горячий чай.|The tea is hot.
+Прилагательные|Холодная вода.|The water is cold.
+Прилагательные|Хороший день.|The day is good.
+Прилагательные|Плохая погода.|The weather is bad.
+Прилагательные|Большой город.|The city is big.
+Прилагательные|Маленькая комната.|The room is small.
+Прилагательные|Новый телефон.|The phone is new.
+Прилагательные|Старый дом.|The house is old.
+Прилагательные|Чистая улица.|The street is clean.
+Прилагательные|Грязная обувь.|The shoes are dirty.
+Глаголы|Я хочу есть.|I want to eat.
+Глаголы|Ты хочешь пить?|Do you want to drink?
+Глаголы|Он хочет спать.|He wants to sleep.
+Глаголы|Она хочет отдохнуть.|She wants to rest.
+Глаголы|Мы идём домой.|We are going home.
+Глаголы|Вы едете на работу?|Are you going to work?
+Глаголы|Они работают.|They work.
+Глаголы|Я отдыхаю.|I rest.
+Глаголы|Ты ешь?|Are you eating?
+Глаголы|Он пьёт.|He drinks.
+Глаголы|Она спит.|She sleeps.
+Глаголы|Мы говорим.|We speak.
+Глаголы|Вы слушаете?|Are you listening?
+Глаголы|Они смотрят.|They watch.
+Глаголы|Я читаю.|I read.
+Глаголы|Ты пишешь?|Are you writing?
+Глаголы|Он думает.|He thinks.
+Глаголы|Она знает.|She knows.
+Глаголы|Мы не знаем.|We do not know.
+Глаголы|Вы понимаете?|Do you understand?
+Глаголы|Они не понимают.|They do not understand.
+Глаголы|Я помню.|I remember.
+Глаголы|Ты забыл?|Did you forget?
+Глаголы|Он хочет.|He wants.
+Глаголы|Она может.|She can.
+Глаголы|Мы не можем.|We cannot.
+Глаголы|Вы должны.|You must.
+Глаголы|Они любят.|They love.
+Глаголы|Я не люблю.|I do not like.
+Глаголы|Ты видишь?|Do you see?
+Глаголы|Он слышит.|He hears.
+Глаголы|Она даёт.|She gives.
+Глаголы|Мы берём.|We take.
+Глаголы|Вы покупаете?|Are you buying?
+Глаголы|Они платят.|They pay.
+Глаголы|Я открываю.|I open.
+Глаголы|Ты закрываешь?|Are you closing?
+Глаголы|Он начинает.|He begins.
+Глаголы|Она заканчивает.|She finishes.
+Глаголы|Мы ждём.|We wait.
+Глаголы|Вы ищете?|Are you looking for?
+Глаголы|Они находят.|They find.
+Глаголы|Я теряю.|I lose.
+Глаголы|Ты помогаешь?|Are you helping?
+Глаголы|Он просит.|He asks.
+Глаголы|Она отвечает.|She answers.
+Глаголы|Мы звоним.|We call.
+Глаголы|Вы пишете сообщение?|Are you sending a message?
+Глаголы|Они читают книгу.|They read a book.
+Глаголы|Я смотрю фильм.|I watch a film.
+Глаголы|Ты слушаешь музыку?|Are you listening to music?
+
+
+
+
+
+
+

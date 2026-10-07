@@ -1,0 +1,2 @@
+cd /d N:\1\projects\Slovar
+C:\Python38\python.exe slovar.py
