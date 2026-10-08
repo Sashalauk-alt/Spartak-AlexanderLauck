@@ -25,7 +25,6 @@ jobs:
       - name: Install Buildozer
         run: |
           pip install buildozer
-          pip install "jnius>=1.4.0"
 
       - name: Build APK
         run: buildozer -v android debug

@@ -28,7 +28,7 @@ source.exclude_dirs = tests, bin, venv, .venv, .git, .github, dist, build, __pyc
 version = 0.1.0
 
 # (list) Application requirements (comma separated)
-requirements = python3,kivy,jnius,pyjnius
+requirements = python3,kivy,pyjnius
 
 # (str) Supported orientation
 orientation = portrait
