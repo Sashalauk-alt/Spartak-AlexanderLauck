@@ -26,6 +26,9 @@ jobs:
         run: |
           pip install buildozer
 
+      - name: Pin python-for-android
+        run: pip install "python-for-android==2024.1.21"
+
       - name: Build APK
         run: buildozer -v android debug
 
