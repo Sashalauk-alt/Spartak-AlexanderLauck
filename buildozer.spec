@@ -57,3 +57,6 @@ android.logcat_filters = *:S python:D
 
 log_level = 2
 warn_on_root = 0
+
+# (str) python-for-android branch to use, defaults to master
+p4a.branch = develop
